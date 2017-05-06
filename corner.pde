@@ -1,9 +1,9 @@
 class Corner extends PVector {
-  int fract;
-  public Corner(float _x, float _y, int _fract) {
+  float factor;
+  public Corner(float _x, float _y, float _factor) {
     x = _x;
     y = _y;
-    fract = _fract;
+    factor = _factor;
   }
   final int dotDiameter = 10;
   void show() {
