@@ -4,7 +4,7 @@ Corner corners[];
 final int N = 5;
 final int R = 300;
 
-final int jumper_diameter = 5;
+final int jumper_diameter = 1;
 PVector jumper;
 
 void setup() {
@@ -25,7 +25,7 @@ void setup() {
   for (Corner c : corners) {
     c.show();
   }
-  fill(#00FF00, 32);
+  fill(#00FF00, 128);
   noStroke();
   blendMode(MULTIPLY);
 }
