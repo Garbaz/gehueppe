@@ -1,5 +1,6 @@
 Corner corners[];
 
+//#corners and radius of the polygon
 final int N = 5;
 final int R = 300;
 

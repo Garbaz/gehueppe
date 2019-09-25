@@ -1,2 +1,6 @@
-# gehueppe
-A simulation of the "chaos game" in processing
+# Gehueppe
+A simulation of the "chaos game" in processing.
+
+### Example Image:
+
+![Example Image](/Screenshot.png)
